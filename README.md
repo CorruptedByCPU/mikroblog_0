@@ -1,4 +1,12 @@
-Powrót do strony głównej > [Programowanie systemowe procesorów z rodziny x86-64](https://4programmers.net/Forum/Hardware_Software/376880-programowanie_systemowe_procesorow_z_rodziny_x86_64).
+Powrót do tematu na forum > [Programowanie systemowe procesorów z rodziny x86-64](https://4programmers.net/Forum/Hardware_Software/376880-programowanie_systemowe_procesorow_z_rodziny_x86_64).
+
+# Menu
+
+1. [Środowisko produkcyjne.](https://4programmers.net/Mikroblogi/View/147178)
+2. Framebuffer, czcionka, konsola oraz kprintf.
+
+---
+---
 
 Witaj na moim mikroblogu poświęconemu programowaniu. Celem wpisów będzie przedstawienie Ci w jaki sposób, wykonując minimalną ilość kroków stworzyć mały i zarazem w pełni funkcjonalny system operacyjny. Każdy kolejny wpis będzie pojawiał się cyklicznie, gdy wskazówki mojego zegarka zrównają się ze sobą.
 <sub>ekhm, jest cyfrowy...</sub>
