@@ -236,3 +236,5 @@ Jaki efekt będzie na nas czekał po uruchomieniu obydwu skryptów?
 ![hello](https://blackdev.org/shot/4p-hello.png)
 
 Realny efekt końcowy – czarny ekran po uruchomieniu, czyli prawdziwy "Hello, OSDev!" w praktyce.
+
+Repozytorium: https://github.com/CorruptedByCPU/mikroblog_0
